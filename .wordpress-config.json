@@ -1,5 +1,5 @@
 {
-  "baseUrl": "researchcentersuriname.ussl.co.il",
+  "baseUrl": "spider.ussl.co.il/researchcentersuriname",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
